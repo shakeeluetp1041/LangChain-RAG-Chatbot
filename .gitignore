@@ -1,0 +1,9 @@
+@"
+.venv/
+venv/
+.env
+embeddings.py
+text_splitter.py
+chatbot.py
+web_loader.py
+"@ | Set-Content .gitignore
